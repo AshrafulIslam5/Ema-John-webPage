@@ -1,0 +1,26 @@
+.cart
+{
+    position: sticky;
+    top: 0;
+    padding: 30px 25px;
+}
+.cart h3
+{
+    font-size: 28px;
+    font-weight: 900;
+    text-align: center;
+}
+.doller
+{
+    font-weight: 600;
+    color: orangered;
+}
+.cart .grand
+{
+    font-size: 24px;
+    font-weight: 700;
+}
+.cart .grand-total
+{
+    font-size: 20px;
+}
